@@ -129,3 +129,11 @@ dmypy.json
 .pyre/
 
 focos_abertos_mensal_202109.csv
+.jupyter/
+.local/
+.npm/
+.jupyter-server-log.txt
+.profile
+.config/configstore/update-notifier-npm.json
+.bashrc
+.bash_logout
